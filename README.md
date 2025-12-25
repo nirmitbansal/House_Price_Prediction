@@ -23,11 +23,11 @@ Predicting house prices using structured data & supervised learning
  **📊 Model Evaluation**
 
 Model performance is evaluated using standard regression metrics:
-
+  
   • 📉 Mean Squared Error (MSE)  
   • 📐 Root Mean Squared Error (RMSE)  
   • 📈 R² Score  
-
+  
 These metrics help validate the model’s predictive accuracy.
 
 **🎯 Key Learnings**
