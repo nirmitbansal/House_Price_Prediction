@@ -1,6 +1,6 @@
 **🏡 House Price Prediction**
 
-Predicting house prices using structured data & supervised learning  
+🎯 Predicting house prices using structured data & supervised learning  
 🎯 Built with a clean machine learning workflow for interview & portfolio showcase
 
 **✨ Why This Project?**
