@@ -13,7 +13,8 @@ Predicting house prices using structured data & supervised learning
 
 **🔄 ML Workflow**
 
-✅ Data Loading  
+✅ Data Loading
+
 ✅ Exploratory Data Analysis (EDA)  
 ✅ Data Preprocessing  
 ✅ Feature Selection  
