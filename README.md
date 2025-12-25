@@ -1,24 +1,48 @@
-**Overview**
+**🏡 House Price Prediction**
 
-This project demonstrates an end-to-end machine learning workflow to predict house prices using historical data. It is designed as a beginner-friendly ML project, covering data loading, model training, evaluation, model persistence, and prediction on new inputs.
-The project uses Linear Regression and the California Housing Dataset to build a regression model that predicts median house prices based on socioeconomic and geographic features.
+🚀 Predicting house prices using structured data & supervised learning
+🎯 Built with a clean ML workflow for interview & portfolio showcase
 
-**Project Objectives**
+**✨ Why This Project?**
 
-Understand the complete machine learning lifecycle
-Train a regression model on real-world data
-Evaluate model performance using RMSE
-Save and reload trained models
-Make predictions for unseen data
-Structure an ML project professionally for GitHub
-Tech Stack
+🔹 Demonstrates complete ML lifecycle
+🔹 Clean, readable, interview-friendly structure
+🔹 Focus on practical implementation, not just theory
+🔹 Easy to explain during interviews
 
-**Language: Python**
-Libraries:
-NumPy
-Pandas
-Matplotlib
-Scikit-learn
-Environment: Virtual Environment (venv)
+**🔄 ML Workflow**
 
-**Tools: Jupyter Notebook, Git, GitHub**
+✅ Data Loading
+✅ Exploratory Data Analysis (EDA)
+✅ Data Preprocessing
+✅ Feature Selection
+✅ Model Training (Regression)
+✅ Model Evaluation
+✅ Price Prediction
+
+**📈 Model Evaluation**
+
+📌 Model performance is evaluated using standard regression metrics:
+  • 📉 Mean Squared Error (MSE)
+  • 📐 Root Mean Squared Error (RMSE)
+  • 📊 R² Score
+These metrics help validate the model’s predictive accuracy.
+
+**🎯 Key Learnings**
+
+✔️ Hands-on regression modeling
+✔️ Real-world data preprocessing
+✔️ Feature impact on predictions
+✔️ ML project structuring for GitHub
+✔️ Interview-ready explanation skills
+
+**📂 Project Structure**
+
+House_Price_Prediction/
+│
+├── 📁 models/                  # Saved trained ML models
+├── 📓 house_price_prediction.ipynb
+│                               # Data analysis, training & evaluation
+├── 📄 requirements.txt         # Project dependencies
+├── 🚫 .gitignore               # Ignored files
+└── 📘 README.md                # Project documentation
