@@ -7,11 +7,8 @@ Predicting house prices using structured data & supervised learning
 **✨ Why This Project?**
 
 🔹 Demonstrates the complete machine learning lifecycle
-
 🔹 Clean, readable, and interview-friendly structure
-
 🔹 Focuses on practical implementation, not just theory
-
 🔹 Easy to explain and justify during interviews
 
 **🔄 ML Workflow**
